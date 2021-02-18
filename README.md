@@ -4,9 +4,13 @@
 
 ### [✅ 출석체트하기](https://docs.google.com/forms/d/e/1FAIpQLSdmMcQhoDTCAHbbvIfKA1jvuDgvxNysO0BFU0CcGOT4Mvck7A/viewform?usp=sf_link)
 
+<br>
+
 ## 👨‍👩‍👧‍👦 대면 예배 형식
 
 ### 	➡️ [문서 확인하기](/고등부_오프라인예배_플랫폼.html)
+
+<br>
 
 ## 🗓 월별 보고서
 
