@@ -552,9 +552,10 @@ header, .context-menu, .megamenu-content, footer{
 </body>
 </html>
 
-<script>
-    window.onload = function () {
-        location.reload(true);
-        return
-}
-</script>
+<SCRIPT language="JavaScript">
+    if (self.name != 'reload') {
+            self.name = 'reload';
+            self.location.reload(true);
+        }
+        else self.name = ''; 
+</SCRIPT>
