@@ -4,7 +4,7 @@
 >
 > 고등부사무실 PW: 171819
 
-### [✅ 출석체트하기](https://docs.google.com/forms/d/e/1FAIpQLSdmMcQhoDTCAHbbvIfKA1jvuDgvxNysO0BFU0CcGOT4Mvck7A/viewform?usp=sf_link)
+### [✅ 출석체크하기](https://docs.google.com/forms/d/e/1FAIpQLSdmMcQhoDTCAHbbvIfKA1jvuDgvxNysO0BFU0CcGOT4Mvck7A/viewform?usp=sf_link)
 
 <br>
 
